@@ -6,8 +6,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shinkhouse/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/samuel.t.hinkhouse/)
 
-I am a software engineer with a passion for front end development, and finding ways to improve the world with my talents and passions! 
-
+I am a software engineer with a passion for front end development. 
+- 🌱 I’m currently learning how to improve my Angular skills and how to make projects in React. 
 <!--
 **shinkhouse/shinkhouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
