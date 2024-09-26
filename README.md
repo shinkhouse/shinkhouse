@@ -1,7 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
-### My name is Samuel Hinkhouse. :) 
-#### 😄 Pronouns: he/him/his
+## My name is Samuel Hinkhouse. :) 
+#### UX Engineer
+#### 😄 Pronouns: he/they
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shinkhouse/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/samuel.t.hinkhouse/)
@@ -11,17 +12,14 @@
 I am a Senior Software Engineer and Lead UX Designer with a passion for front end development. 
 - 🌱 I’m currently leading a small design team and building internal and public facing web and mobile applications.
 - 📫 How to reach me: sam@samuelhinkhouse.com
-<!--
-**shinkhouse/shinkhouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- [Angular Dashboard](https://shinkhouse.github.io/angular-dashboard-example/dashboard)
+- [Google Contacts Clone](https://shinkhouse.github.io/fizzbuzz-contacts-portal/contacts)
+- [Spotify Clone](https://shinkhouse.github.io/spotify-clone/home)
+- [Google Send Feedback Form Clone](https://shinkhouse.github.io/send-feedback-v2/)
+- [My Cookbook](https://shinkhouse.github.io/cookbook/)
+- [Microsoft Todo Clone](https://shinkhouse.github.io/react-todo/)
+- [Giphy](https://shinkhouse.github.io/giphy-v2/)
+- [Therapy Note Generator](https://shinkhouse.github.io/therapynotes/)
+- [Dictionary Mobile App](https://shinkhouse.github.io/dictionary-app-oqv039/home)
