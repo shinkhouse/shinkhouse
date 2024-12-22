@@ -9,8 +9,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/1251089?si=51e5fe6ce5294e52)
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@shinkhouse)
 
-I am a Senior Software Engineer and Lead UX Designer with a passion for front end development. 
-- 🌱 I’m currently leading a small design team and building internal and public facing web and mobile applications.
+I am a Senior Front-End Engineer with a passion for front end development. 
 - 📫 How to reach me: sam@samuelhinkhouse.com
 
 ### Projects
