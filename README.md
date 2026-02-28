@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## My name is Samuel Hinkhouse. :) 
+## My name is Sam Hinkhouse. :) 
 #### UX Engineer
 #### 😄 Pronouns: he/they
 
